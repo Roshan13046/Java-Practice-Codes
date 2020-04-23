@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PackageDemo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b54a0a2c-00ca-455e-bb51-98f1de5cda25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1auZ7aGHq3NydKL8ydvlyVvvdo0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/example/game" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\PackageDemo\src\com\example\game" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.game.Main" />
+      <module name="PackageDemo" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b54a0a2c-00ca-455e-bb51-98f1de5cda25" name="Default Changelist" comment="" />
+      <created>1587587272546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587587272546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587589147323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587589147323" />
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587589140793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587589140793" />
+    <state x="119" y="125" key="FileChooserDialogImpl" timestamp="1587588227466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="119" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587588227466" />
+    <state width="629" height="171" key="GridCell.Tab.0.bottom" timestamp="1587589573092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="629" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587589573092" />
+    <state width="629" height="171" key="GridCell.Tab.0.center" timestamp="1587589573092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="629" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587589573092" />
+    <state width="629" height="171" key="GridCell.Tab.0.left" timestamp="1587589573092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="629" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587589573092" />
+    <state width="629" height="171" key="GridCell.Tab.0.right" timestamp="1587589573092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="629" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587589573092" />
+    <state x="0" y="0" width="686" height="728" key="SettingsEditor" timestamp="1587589375113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="686" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587589375113" />
+    <state x="0" y="0" width="664" height="728" key="new project wizard" timestamp="1587589560852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="664" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587589560852" />
+  </component>
+</project>
